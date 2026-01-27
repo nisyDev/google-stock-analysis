@@ -12,11 +12,11 @@ Este projeto foi desenvolvido como um desafio de 4 horas para realizar uma Anál
 
 ### 1. Evolução do Preço (Tendência de Longo Prazo)
 O gráfico mostra resiliência de mercado. A tendência de crescimento se manteve acelerada, especialmente após 2020.
-![Evolução de Preço](grafico_preco.png)
+![Evolução de Preço](images/grafico_preco.png)
 
 ### 2. Volume de Negociações (O Termômetro do Mercado)
 Ao analisar o volume, percebemos picos de negociação que coincidem com períodos de alta volatilidade. A limpeza das datas no eixo X permitiu identificar claramente os ciclos bienais de mercado.
-![Volume de Negociações](grafico_volume.png)
+![Volume de Negociações](images/grafico_volume.png)
 
 ## Desafios Superados
 * **Data Cleaning**: Ajuste de nomes de colunas com espaços invisíveis e conversão de tipos `object` para `datetime`;
